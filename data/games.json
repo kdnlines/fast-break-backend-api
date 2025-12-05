@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "home_team": "LAL",
+    "away_team": "GSW",
+    "game_date": "2025-12-05",
+    "status": "scheduled"
+  },
+  {
+    "id": 2,
+    "home_team": "BOS",
+    "away_team": "MIA",
+    "game_date": "2025-12-05",
+    "status": "scheduled"
+  },
+  {
+    "id": 3,
+    "home_team": "PHX",
+    "away_team": "DEN",
+    "game_date": "2025-12-06",
+    "status": "scheduled"
+  },
+  {
+    "id": 4,
+    "home_team": "NYK",
+    "away_team": "BKN",
+    "game_date": "2025-12-06",
+    "status": "scheduled"
+  },
+  {
+    "id": 5,
+    "home_team": "DAL",
+    "away_team": "HOU",
+    "game_date": "2025-12-07",
+    "status": "scheduled"
+  }
+]
