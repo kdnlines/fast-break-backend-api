@@ -23,6 +23,8 @@ data/*.sqlite
 *.csv
 
 # Model files (should be generated, not committed)
+# Exception: nba_model.pkl is needed for deployment
+!model/nba_model.pkl
 model/*.pkl
 *.pkl
 
